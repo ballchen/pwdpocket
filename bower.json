@@ -1,0 +1,16 @@
+{
+  "name": "pwdpocket",
+  "version": "0.0.2",
+  "authors": [
+    "ballchen <kerkerball@gmail.com>"
+  ],
+  "description": "A password saver",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
